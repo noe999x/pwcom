@@ -140,12 +140,12 @@ Pada dasarnya hanya ada 3 kemungkinan kode ini dapat berkerja dalam memfilter je
 - Maka `kombinasi password` yang akan diperoleh
 
       via deliya
-      viadelia
+      viadeliya
       via123
       via321
-      delia
-      delia123
-      delia321
+      deliya
+      deliya123
+      deliya321
 
 - Contoh 4
   - Perhatikan jumlah abjad (karakter)
